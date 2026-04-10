@@ -1,4 +1,4 @@
-# mkt-association-app
+# Marketing Association App
 Responsive homepage prototype built with React and Vite, focusing on layout, structure, and responsive design.
 
 ## Tech used
