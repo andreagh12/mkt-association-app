@@ -6,7 +6,7 @@ Responsive homepage prototype built with React and Vite, focusing on layout, str
 - CSS (Flexbox and Grid)  
 
 ## Overview
-This project was developed as part of Mission 0.  
+This project was developed as part of the Mission Ready programme.
 
 The goal was to implement a listing website homepage based on a provided wireframe, focusing on building a responsive layout and maintaining a clear and organised structure.
 
